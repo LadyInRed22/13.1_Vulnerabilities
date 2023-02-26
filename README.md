@@ -20,7 +20,7 @@
 - Какие уязвимости были вами обнаружены? (список со ссылками: достаточно трёх уязвимостей)
 ---
 #### Сетевые службы:
-![image](https://user-images.githubusercontent.com/103531664/221414402-b03f84a1-9e25-4408-a2d4-1184ead1a413.png)
+![image](https://user-images.githubusercontent.com/103531664/221418729-c8cda4d3-4015-43b2-ab6a-fd488685974d.png)
 ---
 #### Уязвимости:
 
