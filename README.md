@@ -24,7 +24,11 @@
 ---
 #### Уязвимости:
 
-
+##### 1. [vsftpd 2.3.4](https://bdu.fstec.ru/vul/2015-02948)
+##### 2. VNC - не нашла на https://bdu.fstec.ru/ и https://www.exploit-db.com/, но вот скриншот:
+![image](https://user-images.githubusercontent.com/103531664/221424643-6b79ad54-9a1f-4e4a-bcff-f9f15a2c62a1.png)
+##### 3. netbios-ssn - не нашла на https://bdu.fstec.ru/ и https://www.exploit-db.com/, но вот скриншот:
+![image](https://user-images.githubusercontent.com/103531664/221426920-87c5d600-98af-458c-a607-84312ef58a47.png)
 
 
 ### Задание 2
